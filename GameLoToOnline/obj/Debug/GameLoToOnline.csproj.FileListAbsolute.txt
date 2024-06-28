@@ -1,0 +1,16 @@
+C:\Users\add\source\repos\LTGD\GameLoToOnline\obj\Debug\GameLoToOnline.csproj.AssemblyReference.cache
+C:\Users\add\source\repos\LTGD\GameLoToOnline\obj\Debug\Interop.WMPLib.dll
+C:\Users\add\source\repos\LTGD\GameLoToOnline\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\add\source\repos\LTGD\GameLoToOnline\obj\Debug\GameLoToOnline.csproj.ResolveComReference.cache
+C:\Users\add\source\repos\LTGD\GameLoToOnline\obj\Debug\GameLoToOnline.FormChonSoNguoiChoi.resources
+C:\Users\add\source\repos\LTGD\GameLoToOnline\obj\Debug\GameLoToOnline.Properties.Resources.resources
+C:\Users\add\source\repos\LTGD\GameLoToOnline\obj\Debug\GameLoToOnline.csproj.GenerateResource.cache
+C:\Users\add\source\repos\LTGD\GameLoToOnline\obj\Debug\GameLoToOnline.csproj.CoreCompileInputs.cache
+C:\Users\add\source\repos\LTGD\GameLoToOnline\bin\Debug\GameLoToOnline.exe.config
+C:\Users\add\source\repos\LTGD\GameLoToOnline\bin\Debug\GameLoToOnline.exe
+C:\Users\add\source\repos\LTGD\GameLoToOnline\bin\Debug\GameLoToOnline.pdb
+C:\Users\add\source\repos\LTGD\GameLoToOnline\bin\Debug\Interop.WMPLib.dll
+C:\Users\add\source\repos\LTGD\GameLoToOnline\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\add\source\repos\LTGD\GameLoToOnline\obj\Debug\GameLoToOnline.exe
+C:\Users\add\source\repos\LTGD\GameLoToOnline\obj\Debug\GameLoToOnline.pdb
+C:\Users\add\source\repos\LTGD\GameLoToOnline\obj\Debug\GameLoToOnline.FormChoi.resources
